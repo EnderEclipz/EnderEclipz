@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EnderEclipz
-- 👀 I’m interested in Flying, Badminton and technology.
-- 🌱 I’m currently learning graphic design.
-- 💞️ I’m looking to collaborate on (no)
-- 📫 How to reach me: telegram.
+- 👋 Hi, I’m @EnderEclipz or @James
+- 👀 I’m interested in Flying, Badminton, Graphic Design and Technology.
+- 🌱 I’m currently studying at Auckland University for a Bachelor of Science, majoring in Computer Science.
+- 💞️ Not currently looking to collaborate
+- 📫 Email me: james@anticesports.com
 
 <!---
 EnderEclipz/EnderEclipz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
